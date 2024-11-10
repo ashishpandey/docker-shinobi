@@ -1,2 +1,4 @@
 # docker-shinobi
-Build and publish a docker shinobi image, because they don't do
+
+Build and publish a docker shinobi image, because they don't do it
+

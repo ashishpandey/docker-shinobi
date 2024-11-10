@@ -1,0 +1,3 @@
+[submodule "ShinobiDocker"]
+	path = ShinobiDocker
+	url = https://gitlab.com/Shinobi-Systems/ShinobiDocker
